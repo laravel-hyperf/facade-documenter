@@ -5,7 +5,7 @@
     "bin": "facade.php",
     "require": {
         "phpstan/phpdoc-parser": "^1.16",
-        "laravel-hyperf/support": "^0.1.4"
+        "laravel-hyperf/support": "*"
     },
     "composer-runtime-api": "^2.2"
 }
